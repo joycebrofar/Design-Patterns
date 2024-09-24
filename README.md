@@ -47,6 +47,7 @@ cart = new Cart(375.25);
 Sample Output:
 
 Paid using online account: 1512.75
+
 Paid using mobile wallet: 375.25 
 
 
